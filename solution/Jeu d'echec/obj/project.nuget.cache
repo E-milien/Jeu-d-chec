@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "OIjs2h2CXexK/qgJK1Ma/DW4XHOAGfg2YbgdjckpzKTvjn4cendqZY0ufnUOo5u0X5u3mWfRY9TXlG7dV3wCKA==",
+  "success": true,
+  "projectFilePath": "/Users/emilien/Desktop/solution/Jeu d'echec/Jeu d'echec.csproj",
+  "expectedPackageFiles": [
+    "/Users/emilien/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "/Users/emilien/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.17/microsoft.netcore.app.host.osx-x64.5.0.17.nupkg.sha512",
+    "/Users/emilien/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
