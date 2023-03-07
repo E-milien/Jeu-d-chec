@@ -1,1 +1,1 @@
-# Jeu-d-chec
+# Jeu-d-echec
